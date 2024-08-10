@@ -8,3 +8,4 @@ arxiv
 wikipedia
 duckduckgo_search
 xmltodict
+google-search-results
