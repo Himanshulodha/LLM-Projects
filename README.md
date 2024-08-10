@@ -15,7 +15,7 @@
 ### Manages the three agents above to provide a comprehensive response depending on the query type.
 ## 🛠️ Setup Instructions
 ### 1. Clone the Repository
-### git clone https://github.com/yourusername/intelligent-agent-hub.git
+### git clone https://github.com/Himanshulodha/LLM-Projects.git
 ### cd intelligent-agent-hub
 
 ### 2. Create a Virtual Environment
