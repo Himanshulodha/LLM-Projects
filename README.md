@@ -60,8 +60,9 @@ The application uses a hierarchical agent system with 4 agents:
 3. Manager Agent (Orchestrator)
    Purpose: Analyzes user input and routes to the best specialized agent
    
-�� How the Workflow Works
+## How the Workflow Works
 Step 1: User Input
+
 Step 2: Manager Analysis
 The manager agent:
 Analyzes the question using the LLM (Groq llama3-70b-8192)
