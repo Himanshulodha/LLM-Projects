@@ -1,5 +1,6 @@
 # 🕵️‍♂️ Intelligent Agent Hub
 ### repository contains a Streamlit application that integrates various AI-powered tools to assist with coding, mathematical calculations, real-time information retrieval, and research. It leverages the capabilities of LangChain agents, Groq's LLM (Large Language Model), and several APIs to provide a versatile and dynamic querying environment.
+<img width="934" height="401" alt="image" src="https://github.com/user-attachments/assets/b06b38e1-7ba1-46cd-a5e2-bd6965c61f4d" />
 
 ## 🌟 Features
 ## Agent 1:
