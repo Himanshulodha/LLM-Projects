@@ -1,7 +1,6 @@
 # 🕵️‍♂️ Intelligent Agent Hub
 ### repository contains a Streamlit application that integrates various AI-powered tools to assist with coding, mathematical calculations, real-time information retrieval, and research. It leverages the capabilities of LangChain agents, Groq's LLM (Large Language Model), and several APIs to provide a versatile and dynamic querying environment.
 <img width="934" height="401" alt="image" src="https://github.com/user-attachments/assets/b06b38e1-7ba1-46cd-a5e2-bd6965c61f4d" />
-<img width="696" height="389" alt="image" src="https://github.com/user-attachments/assets/c44d238b-85cd-4de6-80b6-5a52b56cfd98" />
 
 
 ## 🌟 Features
@@ -14,6 +13,7 @@
 ## Agent 3:
 ### Tools: DuckDuckGo, Wikipedia, ArXiv, PubMed, Google Search.
 ### Use Case: Perfect for research purposes, providing access to scientific literature and encyclopedic knowledge.
+<img width="696" height="389" alt="image" src="https://github.com/user-attachments/assets/c44d238b-85cd-4de6-80b6-5a52b56cfd98" />
 ## Manager Agent:
 ### Manages the three agents above to provide a comprehensive response depending on the query type.
 ## 🛠️ Setup Instructions
