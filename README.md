@@ -14,6 +14,7 @@
 ### Tools: DuckDuckGo, Wikipedia, ArXiv, PubMed, Google Search.
 ### Use Case: Perfect for research purposes, providing access to scientific literature and encyclopedic knowledge.
 <img width="696" height="389" alt="image" src="https://github.com/user-attachments/assets/c44d238b-85cd-4de6-80b6-5a52b56cfd98" />
+
 ## Manager Agent:
 ### Manages the three agents above to provide a comprehensive response depending on the query type.
 ## 🛠️ Setup Instructions
