@@ -98,31 +98,31 @@ Speed: Optimized for real-time inference
     ### Thought → Action → Observation → Thought → Action → ... → Final Answer
    
 ## 📝 Real Thought Process Example
-Step 1: Initial Analysis
-Step 2: Processing Results
-Step 3: Synthesizing Information
-Step 4: Final Answer Formation
+#### Step 1: Initial Analysis
+#### Step 2: Processing Results
+#### Step 3: Synthesizing Information
+#### Step 4: Final Answer Formation
 
 ## 🎨 Visual Thought Process Flow
-User Question
-    ↓
-Manager Agent Analysis
-    ↓
-[Thought: "What type of question is this?"]
-    ↓
-[Action: "Choose appropriate agent"]
-    ↓
-Specialized Agent
-    ↓
-[Thought: "What tools do I need?"]
-    ↓
-[Action: "Use specific tool"]
-    ↓
-[Observation: "Process results"]
-    ↓
-[Thought: "Do I need more information?"]
-    ↓
-[Action: "Use another tool if needed"]
-    ↓
-Final Answer
+#### User Question
+   #### ↓
+#### Manager Agent Analysis
+   #### ↓
+#### [Thought: "What type of question is this?"]
+   #### ↓
+#### [Action: "Choose appropriate agent"]
+   #### ↓
+#### Specialized Agent
+   #### ↓
+#### [Thought: "What tools do I need?"]
+  ####  ↓
+#### [Action: "Use specific tool"]
+   #### ↓
+#### [Observation: "Process results"]
+   #### ↓
+#### [Thought: "Do I need more information?"]
+   #### ↓
+#### [Action: "Use another tool if needed"]
+   #### ↓
+#### Final Answer
 
